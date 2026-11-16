@@ -1,0 +1,13 @@
+{
+  "name": "campus-tracker-api",
+  "version": "1.0.0",
+  "description": "API for routing GPS data to a map visualizer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
